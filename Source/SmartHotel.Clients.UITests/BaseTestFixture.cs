@@ -4,7 +4,7 @@ using Xamarin.UITest;
 namespace SmartHotel.Clients.UITests
 {
     [TestFixture(Platform.Android)]
-    [TestFixture(Platform.iOS)]
+    // [TestFixture(Platform.iOS)]
     public abstract class BaseTestFixture
     {
         protected IApp app => AppManager.App;
