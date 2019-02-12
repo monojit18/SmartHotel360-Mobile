@@ -109,12 +109,11 @@
                         iOS="16"
                         Android="18"
                         WinPhone="18"/>
-                        
-            <!-- dummy change -->
+                       
             <OnPlatform x:Key="LargerSize"
                         x:TypeArguments="x:Double"
                         iOS="18"
-                        Android="30"
+                        Android="20"
                         WinPhone="20"/>
 
             <OnPlatform x:Key="BigSize"
