@@ -1,5 +1,5 @@
 ﻿using CarouselView.FormsPlugin.iOS;
-using FFImageLoading.Forms.Touch;
+using FFImageLoading.Forms;
 using Foundation;
 using Microcharts.Forms;
 using Microsoft.Identity.Client;
