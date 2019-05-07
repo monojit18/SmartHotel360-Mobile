@@ -4,7 +4,7 @@ using Android.Content.PM;
 using Android.OS;
 using Android.Util;
 using Android.Views;
-using CarouselView.FormsPlugin.Android;
+using CV = CarouselView.FormsPlugin.Android;
 using Microsoft.Identity.Client;
 using Rg.Plugins.Popup;
 using Rg.Plugins.Popup.Services;
@@ -35,7 +35,7 @@ namespace SmartHotel.Clients.Droid
             base.OnCreate(bundle);
 
             Forms.Init(this, bundle);
-            CarouselViewRenderer.Init();
+            CV.CarouselViewRenderer.Init();
             Renderers.Calendar.Init();
             Xamarin.FormsMaps.Init(this, bundle);
             Xamarin.Essentials.Platform.Init(this, bundle);

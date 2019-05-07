@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHotel.Clients.Android", "SmartHotel.Clients.Android.csproj", "{7E4A172B-1268-49C2-87BE-E563700BB22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UI Test|Any CPU = UI Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.UI Test|Any CPU.ActiveCfg = UI Test|Any CPU
+		{7E4A172B-1268-49C2-87BE-E563700BB22C}.UI Test|Any CPU.Build.0 = UI Test|Any CPU
+	EndGlobalSection
+EndGlobal
